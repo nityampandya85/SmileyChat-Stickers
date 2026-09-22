@@ -1,0 +1,21 @@
+{
+  "packs": [
+    {
+      "id": "animated",
+      "name": "Animated",
+      "icon": "packs/animated/bear_01.gif",
+      "stickers": [
+        {
+          "id": "bear_01",
+          "file": "packs/animated/bear_01.gif",
+          "animated": true
+        },
+        {
+          "id": "butterfly_01",
+          "file": "packs/animated/butterfly_01.gif",
+          "animated": true
+        }
+      ]
+    }
+  ]
+}
